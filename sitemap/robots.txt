@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Allow: /sitemap/surge/sitemap.htm
+Sitemap: https://literarysocietygecbanka.web.app/sitemap/sitemap.xml
